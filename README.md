@@ -1,2 +1,2 @@
-Idiom to snatch software designed by C language
-============
+Idiom to snatch C language
+==========================
