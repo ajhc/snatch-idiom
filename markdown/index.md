@@ -5,6 +5,8 @@ Idiom to snatch C language
 while dogfooding.
 You can read the detail at http://www.slideshare.net/master_q/metasepi-team-meeting-7-snatch-application-on-tiny-os.
 
+![](../draw/_top/arafura_design.png)
+
 This document shows idiom (or design pattern) to snatch C language with Haskell.
 
 ## Idiom list
