@@ -1,0 +1,3 @@
+fromhs = 9
+callFromC return 7
+Hello_from_C
