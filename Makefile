@@ -12,6 +12,7 @@ all: ${PNGS}
 	rm -f $@.tmp
 
 clean:
+	make -C src clean
 	rm -f `find . -name "*~"`
 
 .PHONY: clean
