@@ -2,7 +2,7 @@ all: Main
 Main: Main.hs callback.c
 	ajhc Main.hs -o $@ --optc="callback.c"
 
-test:
+test: Main
 	stdiochk Main ./
 
 clean:
