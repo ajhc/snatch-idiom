@@ -15,3 +15,4 @@ This document shows idiom (or design pattern) to snatch C language with Haskell.
 * [foreign_primitive](foreign_primitive/index.md)
 * [readwrite_memory](readwrite_memory/index.md)
 * [storable_struct](storable_struct/index.md)
+* [end_to_beginning](end_to_beginning/index.md)
